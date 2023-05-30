@@ -1,5 +1,6 @@
-# 1.	Download the project files via the pdf on OneDrive. The folder ‘final year project’ should be in the zip downloaded. This is the main folder.
--
+# 1. A local program:
+- The files needed for this project are the styles csv files and its images. These files altogether are very large to upload here so they can be downloaded from kaggle: https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
+- The name of the styles csv variable may need to be changed to the one downloaded. The styles file and images will need to go into the "dataset_files" folder.
 
 # 2. Download python if not already downloaded 
 - via https://www.python.org/downloads/
